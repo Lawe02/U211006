@@ -1,5 +1,5 @@
 exports.index = (req, res) => {
-    
-    res.send('NOT IMPLEMENTED: Home index!');
+
+    res.send('Välkommen till ACME Car Dealership');
 
 };
