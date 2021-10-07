@@ -5,5 +5,5 @@ exports.anka = (req, res ) => {
 };
 
 exports.quack = (x,y) => {
-    y.sendefile('public/data/cars.html');
+    y.sendfile('public/data/cars.html');
 };
